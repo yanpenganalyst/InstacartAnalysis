@@ -1,5 +1,5 @@
 ### InstacartAnalysis
-This is a student project where I identified customer buying behavior for the online grocery store Instacart.
+This is a student project where I identified customer buying behavior for the online grocery store Instacart using Python for data analysis and visualization.
 ### Project overview
 Instacart seeks insights into customer variety and purchasing behaviors for targeted marketing. The analysis aims to guide a strategy that ensures precise targeting of customer profiles with suitable products.
 ### Key objectives
@@ -11,7 +11,8 @@ Instacart seeks insights into customer variety and purchasing behaviors for targ
   - Create customer profiles and examine their ordering habits
   - Investigate regional and departmental differences in ordering habits
 ### Data
-“The Instacart Online Grocery Shopping Dataset 2017” via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The dataset contains files on orders, products, and departments, among other things.
-<br>[Customers dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) by CareerFoundry
+- “The Instacart Online Grocery Shopping Dataset 2017” via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The dataset contains files on orders, products, and departments, among other things.
+- [Customers dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) by CareerFoundry
 ### Tools
-The following Python libraries are used: pandas, numpy, seaborn, matplotlib.
+- The following Python management systems are used: Jupyter notebooks and Anaconda.
+- The following Python libraries are used: pandas, numpy, seaborn, matplotlib.
