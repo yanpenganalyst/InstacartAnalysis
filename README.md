@@ -11,5 +11,7 @@ Instacart seeks insights into customer variety and purchasing behaviors for targ
   - Create customer profiles and examine their ordering habits
   - Investigate regional and departmental differences in ordering habits
 ### Data
-“The Instacart Online Grocery Shopping Dataset 2017” via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The dataset contains files on orders, products, departments etc.
-[Customers dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) by CareerFoundry
+“The Instacart Online Grocery Shopping Dataset 2017” via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The dataset contains files on orders, products, and departments, among other things.
+<br>[Customers dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) by CareerFoundry
+### Tools
+The following Python libraries are used: pandas, numpy, seaborn, matplotlib.
