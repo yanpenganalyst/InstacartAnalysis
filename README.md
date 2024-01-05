@@ -15,4 +15,4 @@ Instacart seeks insights into customer variety and purchasing behaviors for targ
 - [Customers dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) by CareerFoundry
 ### Tools
 - The following Python management systems are used: Jupyter notebooks and Anaconda.
-- The following Python libraries are used: pandas, numpy, seaborn, matplotlib.
+- The following Python libraries are used: pandas, numpy, os, matplotlib, seaborn, scipy.
